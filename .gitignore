@@ -1,0 +1,6 @@
+*.png
+Data/Titanic
+catboost_info
+.ipynb_checkpoints
+.idea
+venv
